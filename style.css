@@ -419,6 +419,10 @@ section p {
 
 /* Ilova qismina galdik */
 
+.app-buttons a {
+    text-decoration: none;
+}
+
 .app-section {
     text-align: center;
 }
