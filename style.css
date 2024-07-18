@@ -423,6 +423,11 @@ section p {
     text-decoration: none;
 }
 
+.app-buttons .app-btn img {
+    height: 60px;
+    width: 60px;
+}
+
 .app-section {
     text-align: center;
 }
